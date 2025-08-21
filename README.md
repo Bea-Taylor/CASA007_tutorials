@@ -7,7 +7,7 @@
 
 ### Forking this repository 
 
-We recommend you fork and clone this repository - this will create a local copy of this repsoitory on your computer. You will then have access to the jupyter notebooks and datasets so that you can run them locally. 
+We recommend you [fork and clone](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this repository - this will create a local copy of this repo on your computer. You will then have access to the jupyter notebooks and datasets so that you can run them locally. 
 
 ### Python 
 
